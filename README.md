@@ -1,2 +1,2 @@
 # source_files
-Sources of logo, icons and standard text.
+Deze repo is bedoeld om de gemaakte bestanden en omschrijvingen van icons. logos, etcetera veilig te stellen.
